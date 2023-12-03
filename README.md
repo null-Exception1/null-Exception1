@@ -1,6 +1,1 @@
-- i am person
-- i am person
-- you are person (probably)
-- i am person
-- i make multi billion dollar company
-- i die.
+15 year old coder just chilling lmao
