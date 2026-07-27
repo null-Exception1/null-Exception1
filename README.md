@@ -1,1 +1,1 @@
-17 year old fullstack developer
+17 yr old programmer
