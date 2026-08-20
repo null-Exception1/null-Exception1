@@ -35,7 +35,3 @@ First-year Computer Science Undergraduate focusing on low-level distributed infr
 - Documented a structural micro-architectural infrastructure post-mortem detailing GPU computation bubbles (>95% execution stalls) caused by KV-Cache socket saturations over generic virtualized networks.
 
 ---
-
-### 📊 Production Telemetry Tracks
-- 📝 Technical Blog: [null-exception1.github.io/blog](https://github.io)
-- 📬 Contact Line: [shauryapsrivastava1@gmail.com](mailto:shauryapsrivastava1@gmail.com)
