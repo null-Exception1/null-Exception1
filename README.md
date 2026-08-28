@@ -2,4 +2,6 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
+
+visit my [blog](https://null-exception1.github.io/blog/)
 ---
