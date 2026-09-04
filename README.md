@@ -15,6 +15,10 @@ infra: postgresql, redis, mongodb, docker, firebase, vercel
 open source contributions:
 * vllm-project/vllm: merged #54265
 
+interests:
+* binary exploitation & reverse engineering (stack/rop layers)
+* algorithmic problem solving (cses tracker)
+
 ---
 
 visit my [blog](https://null-exception1.github.io/blog/)
