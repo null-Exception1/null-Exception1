@@ -16,7 +16,8 @@ open source contributions:
 * vllm-project/vllm: merged #54265
 
 interests:
-* binary exploitation & reverse engineering (stack/rop layers)
+* binary/web exploitation & reverse engineering (stack/rop layers)
+* bit of crypto
 * algorithmic problem solving (cses tracker)
 
 ---
