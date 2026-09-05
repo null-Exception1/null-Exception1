@@ -2,6 +2,8 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
+currently working on : kv cache eviction with an amortized-precompute mechanism
+
 ---
 
 languages: c, go, python, c++, typescript, javascript, assembly
@@ -25,3 +27,5 @@ interests:
 visit my [blog](https://null-exception1.github.io/blog/)
 
 ---
+
+
