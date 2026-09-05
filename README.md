@@ -6,7 +6,7 @@ first-year computer science undergraduate focusing on low-level distributed infr
 
 languages: c, go, python, c++, typescript, javascript, assembly
 
-frameworks: grpc, tensorflow.keras, pytorch, next.js (app router), socket.io, pubnub, SDL3/pygame (i guess), discord.py, tailwind css, flask
+frameworks: grpc, tensorflow.keras, pytorch, next.js (app router), socket.io, pubnub, SDL3/pygame (i guess), discord.py, tailwind css, flask, selenium
 
 infra: postgresql, redis, mongodb, docker, firebase, vercel
 
