@@ -1,5 +1,7 @@
 # Hi, I'm Shaurya Pratap Srivastava (`null-Exception1`)
 
+"quality over quantity, depth over breadth"
+
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
 currently working on : kv cache eviction with an amortized-precompute mechanism
@@ -27,5 +29,7 @@ interests:
 visit my [blog](https://null-exception1.github.io/blog/)
 
 ---
+
+
 
 
