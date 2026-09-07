@@ -4,7 +4,7 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
-currently working on : kv cache eviction with an amortized-precompute mechanism
+currently working on : kv cache eviction with an amortized-precompute mechanism -> for vid streaming sessions
 
 ---
 
