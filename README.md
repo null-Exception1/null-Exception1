@@ -4,7 +4,7 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
-currently working on : [RSQR KV-cache eviction](https://github.com/null-Exception1/auto-kv-cache-eviction)
+currently working on : [RSQR KV-cache eviction](https://github.com/null-Exception1/rsqr-kv-cache-eviction)
 
 ---
 
