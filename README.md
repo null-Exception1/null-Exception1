@@ -17,7 +17,7 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 ---
 
 open source contributions:
-* vllm-project/vllm: merged #54265, proposed an [RFC](https://github.com/vllm-project/vllm/issues/57672) for [this](https://github.com/null-Exception1/rsqr-kv-cache-eviction)
+* vllm-project/vllm: merged #54265 (docs example for Renderer.render_cmpl()); opened RFC #57672 proposing RSQR, a KV-cache eviction design eliminating compounding rotation drift and decreasing latency
 
 interests:
 * binary/web exploitation & reverse engineering (stack/rop layers)
