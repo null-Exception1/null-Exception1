@@ -17,7 +17,7 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 ---
 
 open source contributions:
-* vllm-project/vllm: merged #54265
+* vllm-project/vllm: merged #54265, proposed an [RFC](https://github.com/vllm-project/vllm/issues/57672) for [this](https://github.com/null-Exception1/rsqr-kv-cache-eviction)
 
 interests:
 * binary/web exploitation & reverse engineering (stack/rop layers)
