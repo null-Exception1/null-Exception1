@@ -1,6 +1,6 @@
 # Hi, I'm Shaurya Pratap Srivastava (`null-Exception1`)
 
-"ego is death of learning"
+**"ego is death of learning"** - liber primus 
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
