@@ -1,6 +1,6 @@
 # Hi, I'm Shaurya Pratap Srivastava (`null-Exception1`)
 
-"quality over quantity, depth over breadth"
+QOTD: "ego is death of learning"
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
