@@ -23,7 +23,7 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 * binary/web exploitation & reverse engineering (stack/rop layers)
 * bit of crypto
 * algorithmic problem solving (cses tracker)
-
+* machine learning optimizations and algorithms
 ---
 
 ### blog
