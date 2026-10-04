@@ -28,11 +28,13 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 
 ### blog
 
-* [How I Built RoommateFinder (and Optimized It With Go)](https://null-exception1.github.io/blog/posts/roommatefinder/) - building a full-stack matching platform from scratch; Go concurrency, caching, fan-in/fan-out worker pools, and benchmarking the wins
-* [A Custom x86 Mini Assembly Emulator (and Why I Made It)](https://null-exception1.github.io/blog/posts/miniasmemulator/) - writing an x86 emulator in C from first principles: addressing modes, the stack, FLAGS register, JMP/CMP, Turing completeness
-* [The LLM Rabbit Hole](https://null-exception1.github.io/blog/posts/dllm/) - exploring speculative decoding and block-wise quantization for LLM inference; documents where the design failed and why
-* [RSQR: A New Perspective on Efficient KV-Cache Eviction for Streaming LLMs](https://null-exception1.github.io/blog/posts/RSQR/) - designing a RoPE re-rotation scheme for KV-cache eviction, diagnosing a numerical drift bug, and proposing it as an RFC to vLLM
 * [Cellular Automata with FeedForward Neural Nets as Neurons (and chemicals)](https://null-exception1.github.io/blog/posts/evNET/) - cellular automata's applications to brain design using non-linear complex behavioral neurons
+* [RSQR: A New Perspective on Efficient KV-Cache Eviction for Streaming LLMs](https://null-exception1.github.io/blog/posts/RSQR/) - designing a RoPE re-rotation scheme for KV-cache eviction, diagnosing a numerical drift bug, and proposing it as an RFC to vLLM
+* [The LLM Rabbit Hole](https://null-exception1.github.io/blog/posts/dllm/) - exploring speculative decoding and block-wise quantization for LLM inference; documents where the design failed and why
+* [A Custom x86 Mini Assembly Emulator (and Why I Made It)](https://null-exception1.github.io/blog/posts/miniasmemulator/) - writing an x86 emulator in C from first principles: addressing modes, the stack, FLAGS register, JMP/CMP, Turing completeness
+* [How I Built RoommateFinder (and Optimized It With Go)](https://null-exception1.github.io/blog/posts/roommatefinder/) - building a full-stack matching platform from scratch; Go concurrency, caching, fan-in/fan-out worker pools, and benchmarking the wins
+
+
 
 ---
 
