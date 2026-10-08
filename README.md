@@ -20,7 +20,7 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 * vllm-project/vllm: merged #54265 (docs example for Renderer.render_cmpl()); 
 * reproduced a vLLM logprobs bug on the CPU backend on CPU (vLLM #60357, #60377). fix is waiting.
 * opened RFC #57672 proposing RSQR, a KV-cache eviction scheme that stores keys raw and applies one RoPE rotation at eviction; standalone benchmarks show ~3–4× lower isolated rotation cost than per-step re-rotation, with recall statistically on par with corrected re-rotation (Qwen2.5-0.5B)
-* opened #60705 recently (Avoid Triton JIT stall, fix for the ranks kernel for CPU)
+* opened #60705 recently (reducing Triton JIT stall from ~55 mins to 3 seconds, fix for the `_ranks_kernel` for CPU)
 
 ### interests:
 * binary/web exploitation & reverse engineering (stack/rop layers)
