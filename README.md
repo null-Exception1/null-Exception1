@@ -18,8 +18,8 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 
 ### open source contributions:
 * vllm-project/vllm: merged #54265 (docs example for Renderer.render_cmpl()); 
-* reproduced a vLLM logprobs bug on the CPU backend and verified the fix on CPU (vLLM #60357, #60377).
-* opened RFC #57672 proposing RSQR, a KV-cache eviction design eliminating compounding rotation drift and decreasing latency
+* reproduced a vLLM logprobs bug on the CPU backend on CPU (vLLM #60357, #60377). verification of fix is waiting.
+* opened RFC #57672 proposing RSQR, a KV-cache eviction scheme that stores keys raw and applies one RoPE rotation at eviction; standalone benchmarks show ~3–4× lower isolated rotation cost than per-step re-rotation, with recall statistically on par with corrected re-rotation (Qwen2.5-0.5B)
 
 
 ### interests:
