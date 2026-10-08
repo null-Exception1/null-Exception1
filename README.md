@@ -8,7 +8,7 @@ currently working on : debugging a bottleneck regarding vllm's cpu backend when 
 
 ---
 
-languages: c, go, python, c++, typescript, javascript, assembly
+languages: c, go, python, typescript, javascript, assembly
 
 frameworks: grpc, tensorflow.keras or pytorch, next.js (app router) + tailwind css, socket.io or pubnub, SDL3/pygame (i guess), discord.py, flask, selenium
 
