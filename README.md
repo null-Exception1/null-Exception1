@@ -4,7 +4,7 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
-currently working on : debugging a bottleneck regarding vllm's cpu backend when getting logprobs
+currently working on : cf problem solving
 
 ---
 
