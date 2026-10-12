@@ -4,7 +4,7 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
-currently working on : just finished 1st place in intracollege ctf 
+currently working on : just finished 1st place in labyrinth cryptonite ctf 
 
 ---
 
