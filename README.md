@@ -25,7 +25,7 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 ### interests:
 * binary/web exploitation & reverse engineering (stack/rop layers)
 * bit of crypto
-* algorithmic problem solving (cses tracker)
+* algorithmic problem solving (cses tracker) - 3 problems solved in icpc prelims
 * machine learning optimizations and algorithms
 ---
 
