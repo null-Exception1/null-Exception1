@@ -4,7 +4,7 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
-currently working on : just finished 1st place in labyrinth cryptonite ctf 
+currently working on : taking a break
 
 ---
 
@@ -23,8 +23,7 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 * opened PR #60705 in vLLM recently (reducing Triton JIT stall from ~55 mins to 3 seconds, fix for the `_ranks_kernel` for CPU)
 
 ### interests:
-* binary/web exploitation & reverse engineering (stack/rop layers)
-* bit of crypto
+* binary/web exploitation & reverse engineering (stack/rop layers) - 1st place in labyrinth cryptonite ctf 
 * algorithmic problem solving (cses tracker) - 3 problems solved in icpc prelims
 * machine learning optimizations and algorithms
 ---
