@@ -10,7 +10,7 @@ currently working on : taking a break
 
 languages: c, go, python, typescript, javascript, assembly
 
-frameworks: grpc, tensorflow.keras or pytorch, next.js (app router) + tailwind css, socket.io or pubnub, SDL3/pygame (i guess), discord.py, flask, selenium
+frameworks: grpc, tensorflow.keras or pytorch, next.js (app router) + tailwind css, socket.io or pubnub, SDL3/pygame (i guess), discord.py, fastapi, flask, selenium
 
 infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 
