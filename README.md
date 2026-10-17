@@ -4,7 +4,7 @@
 
 first-year computer science undergraduate focusing on low-level distributed infrastructure, concurrent systems execution, and ML inference optimization frameworks.
 
-currently working on : making [multiplayer webgame](https://github.com/null-Exception1/cozycatplatformer)
+currently working on : making a [multiplayer webgame](https://github.com/null-Exception1/cozycatplatformer) with FastAPI, ASGI socket.io and WebRTC proximity chat
 
 ---
 
