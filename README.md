@@ -25,7 +25,10 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 ### interests:
 * binary/web exploitation & reverse engineering (stack/rop layers) - 1st place in labyrinth cryptonite ctf 
 * algorithmic problem solving (cses tracker) - 3 problems solved in icpc prelims
-* machine learning optimizations and algorithms
+* machine learning and AI algorithms
+* triton kernels & parallelization
+* go concurrency handling
+
 ---
 
 ### blog
