@@ -26,9 +26,8 @@ infra: supabase, neon, redis, mongodb, docker, firebase, vercel
 * binary/web exploitation & reverse engineering (stack/rop layers) - 1st place in labyrinth cryptonite ctf 
 * algorithmic problem solving (cses tracker) - 3 problems solved in icpc prelims
 * machine learning and AI algorithms
-* triton kernels & parallelization
+* triton kernels & parallelization - go check out my slow paced solves of leetGPU [repo](https://github.com/null-Exception1/learning-triton) using triton
 * go concurrency handling
-
 ---
 
 ### blog
